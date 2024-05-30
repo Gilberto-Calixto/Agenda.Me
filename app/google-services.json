@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873855449241",
+    "project_id": "agenda-me-88432",
+    "storage_bucket": "agenda-me-88432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873855449241:android:f60fc12806c24588126008",
+        "android_client_info": {
+          "package_name": "com.example.agendame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZv0kmu1Yc0xrDPVMk66I_37pOxy5ISIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
